@@ -1,0 +1,23 @@
+﻿  1120model.cpp
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\model.h(322): warning C4018: “<”: 有符号/无符号不匹配
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\model.h(418): warning C4018: “<”: 有符号/无符号不匹配
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(237): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(256): warning C4018: “<”: 有符号/无符号不匹配
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(534): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(535): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(539): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(540): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(542): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(543): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(550): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(746): warning C4305: “参数”: 从“double”到“float”截断
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(747): warning C4305: “参数”: 从“double”到“float”截断
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(754): warning C4305: “参数”: 从“double”到“float”截断
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(755): warning C4305: “参数”: 从“double”到“float”截断
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(762): warning C4305: “参数”: 从“double”到“float”截断
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(763): warning C4305: “参数”: 从“double”到“float”截断
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(770): warning C4305: “参数”: 从“double”到“float”截断
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(771): warning C4305: “参数”: 从“double”到“float”截断
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(779): warning C4305: “参数”: 从“double”到“float”截断
+d:\myfile\computer graphics\source\repos\final\1120model\1120model\1120model.cpp(780): warning C4305: “参数”: 从“double”到“float”截断
+  1120model.vcxproj -> D:\MyFile\Computer Graphics\source\repos\final\1120model\Debug\1120model.exe
